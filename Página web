@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="ca">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="ca">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="ca">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="ca">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="pingback" href="https://www.calanuri.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://www.calanuri.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<script type="text/javascript">
+document.documentElement.className = 'js';
+</script>
+<script>var et_site_url='https://www.calanuri.com';var et_post_id='57';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><script>(function(d, s, id){
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" hreflang="ca" href="https://www.calanuri.com" />
+<link rel="alternate" hreflang="es-es" href="https://www.calanuri.com/es/" />
+<link rel="alternate" hreflang="en-us" href="https://www.calanuri.com/en/" />
+<!-- This site is optimized with the Yoast SEO plugin v16.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Restaurants Ca la Nuri · Grup Calanuri</title>
+<meta name="description" content="Volem que t’acomodis a les nostres taules; al Platja Ca la Nuri amb els millors arrossos de la Barceloneta; al Terra Ca la Nuri, les arrels de sempre a l’Eixample, o bé al Xiroi Ca la Nuri, ideal per compartir un àpat informal vora el mar amb bona música. Gaudeix dels nostres restaurants!" />
+<link rel="canonical" href="https://www.calanuri.com/" />
+<meta property="og:locale" content="ca_ES" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Restaurants Ca la Nuri · Grup Calanuri" />
+<meta property="og:description" content="Volem que t’acomodis a les nostres taules; al Platja Ca la Nuri amb els millors arrossos de la Barceloneta; al Terra Ca la Nuri, les arrels de sempre a l’Eixample, o bé al Xiroi Ca la Nuri, ideal per compartir un àpat informal vora el mar amb bona música. Gaudeix dels nostres restaurants!" />
+<meta property="og:url" content="https://www.calanuri.com/" />
+<meta property="og:site_name" content="Ca la Nuri" />
+<meta property="article:modified_time" content="2021-08-12T16:19:54+00:00" />
+<meta property="og:image" content="https://www.calanuri.com/wp-content/uploads/2020/05/ic_location_Mesa-de-trabajo-1_Mesa-de-trabajo-1.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:label1" content="Temps estimat de lectura" />
+<meta name="twitter:data1" content="18 minuts" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.calanuri.com/#website","url":"https://www.calanuri.com/","name":"Ca la Nuri","description":"50 anys amb vosaltres","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.calanuri.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ca"},{"@type":"ImageObject","@id":"https://www.calanuri.com/#primaryimage","inLanguage":"ca","url":"https://www.calanuri.com/wp-content/uploads/2020/05/ic_location_Mesa-de-trabajo-1_Mesa-de-trabajo-1.png","contentUrl":"https://www.calanuri.com/wp-content/uploads/2020/05/ic_location_Mesa-de-trabajo-1_Mesa-de-trabajo-1.png","width":59,"height":88},{"@type":"WebPage","@id":"https://www.calanuri.com/#webpage","url":"https://www.calanuri.com/","name":"Restaurants Ca la Nuri \u00b7 Grup Calanuri","isPartOf":{"@id":"https://www.calanuri.com/#website"},"primaryImageOfPage":{"@id":"https://www.calanuri.com/#primaryimage"},"datePublished":"2017-07-17T13:32:09+00:00","dateModified":"2021-08-12T16:19:54+00:00","description":"Volem que t\u2019acomodis a les nostres taules; al Platja Ca la Nuri amb els millors arrossos de la Barceloneta; al Terra Ca la Nuri, les arrels de sempre a l\u2019Eixample, o b\u00e9 al Xiroi Ca la Nuri, ideal per compartir un \u00e0pat informal vora el mar amb bona m\u00fasica. Gaudeix dels nostres restaurants!","breadcrumb":{"@id":"https://www.calanuri.com/#breadcrumb"},"inLanguage":"ca","potentialAction":[{"@type":"ReadAction","target":["https://www.calanuri.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.calanuri.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada"}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel="alternate" type="application/rss+xml" title="Ca la Nuri &raquo; canal d&#039;informació" href="https://www.calanuri.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ca la Nuri &raquo; Canal dels comentaris" href="https://www.calanuri.com/comments/feed/" />
+<meta content="calanuri v.3.0.51.1497276312" name="generator"/><!-- <link rel='stylesheet' id='sb_instagram_styles-css'  href='https://www.calanuri.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='https://www.calanuri.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='contact-form-7-css'  href='https://www.calanuri.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.calanuri.com/wp-content/cache/wpfc-minified/k0d14x4r/dfjuc.css" media="all"/>
+<link rel='stylesheet' id='simple-share-buttons-adder-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='wpml-menu-item-0-css'  href='//www.calanuri.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='chld_thm_cfg_parent-css'  href='https://www.calanuri.com/wp-content/themes/Divi/style.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='divi-style-css'  href='https://www.calanuri.com/wp-content/themes/calanuri/style.css' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.calanuri.com/wp-content/cache/wpfc-minified/4sp9cyz/dfjuc.css" media="all"/>
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://fonts.googleapis.com/css?family=Raleway:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese&#038;display=swap' type='text/css' media='all' />
+<script id='st_insights_js' type='text/javascript' defer src='https://ws.sharethis.com/button/st_insights.js?publisher=4d48b7c5-0ae3-43d4-bfbe-3ff8c17a8ae6&#038;product=simpleshare' id='ssba-sharethis-js'></script>
+<script src='//www.calanuri.com/wp-content/cache/wpfc-minified/1bb7qfge/dfjuc.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://www.calanuri.com/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script> -->
+<!-- <script type='text/javascript' src='https://www.calanuri.com/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script> -->
+<script type='text/javascript' id='snazzymaps-js-js-extra'>
+/* <![CDATA[ */
+var SnazzyDataForSnazzyMaps = [];
+SnazzyDataForSnazzyMaps={"id":15,"name":"Subtle Grayscale","description":"A nice, simple grayscale version of the map with color extremes that are never too harsh on the eyes. Originally created for http:\/\/barvinssurvins.fr\/situer.","url":"https:\/\/snazzymaps.com\/style\/15\/subtle-grayscale","imageUrl":"https:\/\/snazzy-maps-cdn.azureedge.net\/assets\/15-subtle-grayscale.png?v=20170626083535","json":"[{\"featureType\":\"administrative\",\"elementType\":\"all\",\"stylers\":[{\"saturation\":\"-100\"}]},{\"featureType\":\"administrative.province\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"off\"}]},{\"featureType\":\"landscape\",\"elementType\":\"all\",\"stylers\":[{\"saturation\":-100},{\"lightness\":65},{\"visibility\":\"on\"}]},{\"featureType\":\"poi\",\"elementType\":\"all\",\"stylers\":[{\"saturation\":-100},{\"lightness\":\"50\"},{\"visibility\":\"simplified\"}]},{\"featureType\":\"road\",\"elementType\":\"all\",\"stylers\":[{\"saturation\":\"-100\"}]},{\"featureType\":\"road.highway\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"simplified\"}]},{\"featureType\":\"road.arterial\",\"elementType\":\"all\",\"stylers\":[{\"lightness\":\"30\"}]},{\"featureType\":\"road.local\",\"elementType\":\"all\",\"stylers\":[{\"lightness\":\"40\"}]},{\"featureType\":\"transit\",\"elementType\":\"all\",\"stylers\":[{\"saturation\":-100},{\"visibility\":\"simplified\"}]},{\"featureType\":\"water\",\"elementType\":\"geometry\",\"stylers\":[{\"hue\":\"#ffff00\"},{\"lightness\":-25},{\"saturation\":-97}]},{\"featureType\":\"water\",\"elementType\":\"labels\",\"stylers\":[{\"lightness\":-25},{\"saturation\":-100}]}]","views":407053,"favorites":772,"createdBy":{"name":"Paulo Avila","url":null},"createdOn":"2013-10-30T16:37:24.593","tags":["greyscale","light"],"colors":["gray","white"]};
+/* ]]> */
+</script>
+<script src='//www.calanuri.com/wp-content/cache/wpfc-minified/f4jrg7uy/dfjuc.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' defer src='https://www.calanuri.com/wp-content/plugins/snazzy-maps/snazzymaps.js' id='snazzymaps-js-js'></script> -->
+<link rel="https://api.w.org/" href="https://www.calanuri.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.calanuri.com/wp-json/wp/v2/pages/57" /><link rel="alternate" type="application/json+oembed" href="https://www.calanuri.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.calanuri.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.calanuri.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.calanuri.com%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.2.0 stt:8,1,2;" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="preload" href="https://www.calanuri.com/wp-content/themes/Divi/core/admin/fonts/modules.ttf" as="font" crossorigin="anonymous"><link rel="shortcut icon" href="https://www.calanuri.com/wp-content/uploads/2017/07/logo_CalaNuri_restaurant.png" /><!-- <link rel="stylesheet" id="et-core-unified-57-cached-inline-styles" href="https://www.calanuri.com/wp-content/et-cache/57/et-core-unified-57-16321836032175.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /> --></head>
+<body data-rsssl=1 class="home page-template-default page page-id-57 et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_two_panels et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_centered et_pb_footer_columns5 et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+<div id="page-container">
+<div class="above_top_bar"> <div class="page_content_wrapper"> <div class="social_wrapper"> <!--<ul> <li class="facebook"><a target="_blank" href="https://www.facebook.com/calanuri1963/"><i class="fa fa-facebook"></i></a></li> <li class="twitter"><a target="_blank" href="http://twitter.com/calanuri"><i class="fa fa-twitter"></i></a></li> <li class="youtube"><a target="_blank" title="Youtube" href="https://www.youtube.com/user/CaLaNuriPlatja"><i class="fa fa-youtube"></i></a></li> <li class="instagram"><a target="_blank" title="Instagram" href="https://www.instagram.com/calanuri/"><i class="fa fa-instagram"></i></a></li> </ul>--></div>
+<div class="menu-top-menu-container"><ul id="top_menu" class="top_nav"><li id="menu-item-4641" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4641"><a title="Català" href="https://www.calanuri.com/">CA</a></li><li id="menu-item-4642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4642"><a title="Castellà" href="https://www.calanuri.com/es">ES</a></li><li id="menu-item-5938" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5938"><a href="https://www.calanuri.com/en">EN</a></li></ul></div> 
+<div class="extend_top_contact_info top_contact_info"> <a href="http://platja.calanuri.com/" target="_blank">PLATJA</a> - <a href="http://terra.calanuri.com/" target="_blank">TERRA</a> - <a href="http://xiroi.calanuri.com/" target="_blank">XIROI</a> - <a href="https://arrozal.calanuri.com/" target="_blank">ARROZAL</a> - <a href="https://restaurantsalmar.com/" target="_blank">SAL MAR</a> </div> </div></div>
+<header id="main-header" data-height-onload="170">
+<div class="container clearfix et_menu_container">
+<div class="logo_container">
+<span class="logo_helper"></span>
+<a href="https://www.calanuri.com/">
+<img src="https://www.calanuri.com/wp-content/uploads/2017/07/logo_CalaNuri_restaurant.png" alt="Ca la Nuri" id="logo" data-height-percentage="70" />
+</a>
+</div>
+<div id="et-top-navigation" data-height="170" data-fixed-height="40">
+<nav id="top-menu-nav">
+<ul id="top-menu" class="nav"><li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-57 current_page_item menu-item-129"><a href="https://www.calanuri.com/" aria-current="page">Inici</a></li>
+<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="https://www.calanuri.com/historia/">Història</a></li>
+<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-232"><a href="https://www.calanuri.com/els-restaurants/">Els restaurants</a>
+<ul class="sub-menu">
+<li id="menu-item-328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-328"><a target="_blank" rel="noopener" href="http://platja.calanuri.com/">Platja</a></li>
+<li id="menu-item-329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-329"><a target="_blank" rel="noopener" href="https://xiroi.calanuri.com/">Xiroi</a></li>
+<li id="menu-item-49530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49530"><a target="_blank" rel="noopener" href="https://restaurantsalmar.com/">Sal Mar</a></li>
+<li id="menu-item-49312" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49312"><a href="https://arrozal.calanuri.com/">ARROZAL</a></li>
+<li id="menu-item-975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-975"><a target="_blank" rel="noopener" href="https://www.covermanager.com/go/restaurante-calanuriacasa/es">CA LA NURI A CASA</a></li>
+<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330"><a target="_blank" rel="noopener" href="https://terra.calanuri.com/">Terra</a></li>
+</ul>
+</li>
+<li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-386"><a href="https://www.calanuri.com/blog/">Blog</a></li>
+<li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="https://www.calanuri.com/contacta/">Contacta</a></li>
+</ul>						</nav>
+<div id="et_top_search">
+<span id="et_search_icon"></span>
+</div>
+<div id="et_mobile_nav_menu">
+<div class="mobile_nav closed">
+<span class="select_page">Select Page</span>
+<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+</div>
+</div>				</div> <!-- #et-top-navigation -->
+</div> <!-- .container -->
+<div class="et_search_outer">
+<div class="container et_search_form_container">
+<form role="search" method="get" class="et-search-form" action="https://www.calanuri.com/">
+<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+<span class="et_close_search_field"></span>
+</div>
+</div>
+</header> <!-- #main-header -->
+<div id="et-main-area">
+<div id="main-content">
+<article id="post-57" class="post-57 page type-page status-publish hentry">
+<div class="entry-content">
+<div id="et-boc" class="et-boc">
+<div class="et-l et-l--post">
+<div class="et_builder_inner_content et_pb_gutters3">
+<div class="et_pb_section et_pb_section_0 et_section_regular" >
+<div class="et_pb_row et_pb_row_0">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h1 style="text-align: center; font-size: 60px;">Ca la Nuri,</h1>
+<h1 style="text-align: center; font-size: 30px;">Els teus restaurants</h1></div>
+</div> <!-- .et_pb_text -->
+</div> <!-- .et_pb_column -->
+</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_1">
+<div class="et_pb_column et_pb_column_1_3 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_main_blurb_image"><a href="https://platja.calanuri.com/" target="_blank"><span class="et_pb_image_wrap"><img loading="lazy" width="146" height="146" src="https://www.calanuri.com/wp-content/uploads/2017/07/logo_Platja_CalaNuri-02.png" alt="" class="et-waypoint et_pb_animation_top wp-image-64" /></span></a></div>
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><a href="https://platja.calanuri.com/" target="_blank">Platja</a></h4>
+<div class="et_pb_blurb_description"><p style="text-align: center;"><a href="https://www.google.es/maps/place/Platja+Ca+la+Nuri+Restaurant/@41.3829791,2.192738,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a30ece8671ff:0xbd0a6c4ca676ff6d!8m2!3d41.3829751!4d2.1949267" target="_blank" rel="noopener">Pg. Marítim de la Barceloneta</a></p>
+<h4 style="text-align: center; font-size: 20px;"><a href="tel:+34932213775">+34 932 213 775</a></h4></div>
+</div>
+</div> <!-- .et_pb_blurb_content -->
+</div> <!-- .et_pb_blurb -->
+</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_1  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_main_blurb_image"><a href="https://www.xiroi.calanuri.com/" target="_blank"><span class="et_pb_image_wrap"><img loading="lazy" width="140" height="140" src="https://www.calanuri.com/wp-content/uploads/2017/07/calanuri-xiroi-logo.png" alt="" class="et-waypoint et_pb_animation_top wp-image-76" /></span></a></div>
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><a href="https://www.xiroi.calanuri.com/" target="_blank">Xiroi</a></h4>
+<div class="et_pb_blurb_description"><p style="text-align: center;"><a href="https://www.google.es/maps/place/Xiroi+Ca+la+Nuri/@41.3916199,2.2012514,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a312f0f0b817:0xe3ae7ce03d49f382!8m2!3d41.3916199!4d2.2034401" target="_blank" rel="noopener">Pg. Marítim de la Nova Icària, 38</a></p>
+<h4 style="text-align: center; font-size: 20px;"><a href="tel:+34932213558">+34 932 213 558</a></h4></div>
+</div>
+</div> <!-- .et_pb_blurb_content -->
+</div> <!-- .et_pb_blurb -->
+</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_2  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_main_blurb_image"><a href="https://restaurantsalmar.com/" target="_blank"><span class="et_pb_image_wrap"><img loading="lazy" width="220" height="142" src="https://www.calanuri.com/wp-content/uploads/2021/06/SalMar-Logotipo-CURVES-07-3-1-2.png" alt="" class="et-waypoint et_pb_animation_top wp-image-49565" /></span></a></div>
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><a href="https://restaurantsalmar.com/" target="_blank">Sal Mar</a></h4>
+<div class="et_pb_blurb_description"><p style="text-align: center;"><a href="https://goo.gl/maps/v3zv5WgLrM6coqtE7" target="_blank" rel="noopener">Paseo Marítimo de la Barceloneta, s/n</a></p>
+<h4 style="text-align: center; font-size: 20px;"><a href="tel:+34932240707">+34 932 24 07 07</a></h4></div>
+</div>
+</div> <!-- .et_pb_blurb_content -->
+</div> <!-- .et_pb_blurb -->
+</div> <!-- .et_pb_column -->
+</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_2">
+<div class="et_pb_column et_pb_column_1_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_3  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_main_blurb_image"><a href="https://arrozal.calanuri.com/" target="_blank"><span class="et_pb_image_wrap"><img loading="lazy" width="140" height="140" src="https://www.calanuri.com/wp-content/uploads/2020/02/arrossal.png" alt="" class="et-waypoint et_pb_animation_top wp-image-1209" /></span></a></div>
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><a href="https://arrozal.calanuri.com/" target="_blank">Arrozal</a></h4>
+<div class="et_pb_blurb_description"><p style="text-align: center;"><a href="https://www.google.com/maps/dir//Arrozal+Ca+la+Nuri,+Avinguda+Ports+d'Europa,+Barcelona/@41.322648,2.1005477,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x12a49f40d9087199:0x5ccf1c2d67dbbb0c!2m2!1d2.135567!2d41.3226533" target="_blank" rel="noopener">AV. PORTS D’EUROPA, 100 – ZAL PORT DE BARCELONA</a></p>
+<h4 style="text-align: center; font-size: 20px;"><a href="tel:+34932211342">+34 932 211 342</a></h4></div>
+</div>
+</div> <!-- .et_pb_blurb_content -->
+</div> <!-- .et_pb_blurb -->
+</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_4  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_main_blurb_image"><a href="https://www.covermanager.com/go/restaurante-calanuriacasa/es" target="_blank"><span class="et_pb_image_wrap"><img loading="lazy" width="220" height="146" src="https://www.calanuri.com/wp-content/uploads/2021/06/calanuriacasa-3-1-1.png" alt="" class="et-waypoint et_pb_animation_top wp-image-49570" /></span></a></div>
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><a href="https://www.covermanager.com/go/restaurante-calanuriacasa/es" target="_blank">CA LA NURI A CASA</a></h4>
+<div class="et_pb_blurb_description"><p style="text-align: center;"><a href="https://goo.gl/maps/wTT8DJC7wh88t5SR9" target="_blank" rel="noopener">Pg. de Garcia Fària, 69</a></p>
+<h4 style="text-align: center; font-size: 20px;"><a href="tel:+34932218323">+34 932 218 323</a></h4></div>
+</div>
+</div> <!-- .et_pb_blurb_content -->
+</div> <!-- .et_pb_blurb -->
+</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_5  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_main_blurb_image"><a href="https://terra.calanuri.com/" target="_blank"><span class="et_pb_image_wrap"><img loading="lazy" width="146" height="146" src="https://www.calanuri.com/wp-content/uploads/2017/07/logo_Platja_Terra-01.png" alt="" class="et-waypoint et_pb_animation_top wp-image-72" /></span></a></div>
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><a href="https://terra.calanuri.com/" target="_blank">Terra</a></h4>
+<div class="et_pb_blurb_description"><p style="text-align: center;"><a href="https://goo.gl/maps/D4hfaKe28xZV5XN99" target="_blank" rel="noopener">C. Consell de Cent, 377</a></p>
+<h4 style="text-align: center; font-size: 20px;"><a href="tel:+34932155523">+34 932 155 523</a></h4></div>
+</div>
+</div> <!-- .et_pb_blurb_content -->
+</div> <!-- .et_pb_blurb -->
+</div> <!-- .et_pb_column -->
+</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_3">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h1 style="text-align: center; font-size: 40px;">gaudeix</h1>
+<h1 style="text-align: center; font-size: 20px;">dels nostres restaurants</h1></div>
+</div> <!-- .et_pb_text -->
+</div> <!-- .et_pb_column -->
+</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_4">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_slider et_pb_slider_0 et_pb_slider_fullwidth_off et_slider_auto et_slider_speed_3500">
+<div class="et_pb_slides">
+<div class="et_pb_slide et_pb_slide_0 et_pb_bg_layout_dark et_pb_media_alignment_center et-pb-active-slide" data-slide-id="et_pb_slide_0">
+<div class="et_pb_container clearfix">
+<div class="et_pb_slider_container_inner">
+<div class="et_pb_slide_description">
+</div> <!-- .et_pb_slide_description -->
+</div>
+</div> <!-- .et_pb_container -->
+</div> <!-- .et_pb_slide -->
+<div class="et_pb_slide et_pb_slide_1 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_1">
+<div class="et_pb_container clearfix">
+<div class="et_pb_slider_container_inner">
+<div class="et_pb_slide_description">
+</div> <!-- .et_pb_slide_description -->
+</div>
+</div> <!-- .et_pb_container -->
+</div> <!-- .et_pb_slide -->
+<div class="et_pb_slide et_pb_slide_2 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_2">
+<div class="et_pb_container clearfix">
+<div class="et_pb_slider_container_inner">
+<div class="et_pb_slide_description">
+</div> <!-- .et_pb_slide_description -->
+</div>
+</div> <!-- .et_pb_container -->
+</div> <!-- .et_pb_slide -->
+<div class="et_pb_slide et_pb_slide_3 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_3">
+<div class="et_pb_container clearfix">
+<div class="et_pb_slider_container_inner">
+<div class="et_pb_slide_description">
+</div> <!-- .et_pb_slide_description -->
+</div>
+</div> <!-- .et_pb_container -->
+</div> <!-- .et_pb_slide -->
+<div class="et_pb_slide et_pb_slide_4 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_4">
+<div class="et_pb_container clearfix">
+<div class="et_pb_slider_container_inner">
+<div class="et_pb_slide_description">
+</div> <!-- .et_pb_slide_description -->
+</div>
+</div> <!-- .et_pb_container -->
+</div> <!-- .et_pb_slide -->
+<div class="et_pb_slide et_pb_slide_5 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_5">
+<div class="et_pb_container clearfix">
+<div class="et_pb_slider_container_inner">
+<div class="et_pb_slide_description">
+</div> <!-- .et_pb_slide_description -->
+</div>
+</div> <!-- .et_pb_container -->
+</div> <!-- .et_pb_slide -->
+<div class="et_pb_slide et_pb_slide_6 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_6">
+<div class="et_pb_container clearfix">
+<div class="et_pb_slider_container_inner">
+<div class="et_pb_slide_description">
+</div> <!-- .et_pb_slide_description -->
+</div>
+</div> <!-- .et_pb_container -->
+</div> <!-- .et_pb_slide -->
+</div> <!-- .et_pb_slides -->
+</div> <!-- .et_pb_slider -->
+</div> <!-- .et_pb_column -->
+</div> <!-- .et_pb_row -->
+</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular" >
+<div class="et_pb_row et_pb_row_5">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_center et_pb_bg_layout_dark">
+<div class="et_pb_text_inner"><p style="text-align: justify;">Tenim els fogons encesos des de fa més de 50 anys. Durant tot aquest temps només ens ha preocupat una cosa: gaudir amb el menjar i el beure, amb un producte autèntic i un servei proper i de qualitat.</p>
+<p style="text-align: justify;">Volem que t’acomodis a les nostres taules; al Platja Ca la Nuri amb els millors arrossos de la Barceloneta;  al Terra Ca la Nuri, les arrels de sempre a l’Eixample, o bé al Xiroi Ca la Nuri, ideal per compartir un àpat informal vora el mar amb bona música.</p>
+<p style="text-align: center;">T’HI ESPEREM, AFANYA&#8217;T!</p></div>
+</div> <!-- .et_pb_text -->
+</div> <!-- .et_pb_column -->
+</div> <!-- .et_pb_row -->
+</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_section_regular" >
+<div class="et_pb_row et_pb_row_6">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_blog_0 et_pb_blog_grid_wrapper">
+<div class="et_pb_blog_grid clearfix ">
+<div class="et_pb_ajax_pagination_container">
+<div class="et_pb_salvattore_content" data-columns>
+<article id="post-49679" class="et_pb_post clearfix et_pb_blog_item_0_0 post-49679 post type-post status-publish format-standard has-post-thumbnail hentry category-ca-la-nuri category-uncategorized-ca">
+<div class="et_pb_image_container"><a href="https://www.calanuri.com/2021/06/23/hem-visitat-fundacio-arrels-arrossolidaricalanuri/" class="entry-featured-image-url"><img loading="lazy" src="https://www.calanuri.com/wp-content/uploads/2021/06/DSC2887-400x250.jpg" alt="HEM VISITAT FUNDACIÓ ARRELS! #ARROSSOLIDARICALANURI" class="" srcset="https://www.calanuri.com/wp-content/uploads/2021/06/DSC2887-scaled.jpg 479w, https://www.calanuri.com/wp-content/uploads/2021/06/DSC2887-400x250.jpg 480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div> <!-- .et_pb_image_container -->
+<h2 class="entry-title"><a href="https://www.calanuri.com/2021/06/23/hem-visitat-fundacio-arrels-arrossolidaricalanuri/">HEM VISITAT FUNDACIÓ ARRELS! #ARROSSOLIDARICALANURI</a></h2>
+<p class="post-meta">by <span class="author vcard"><a href="https://www.calanuri.com/author/eva-ca-la-nuri/" title="Posts by Eva Ca la Nuri" rel="author">Eva Ca la Nuri</a></span> | <span class="published">juny 23, 2021</span> | <a href="https://www.calanuri.com/category/ca-la-nuri/" rel="tag">Ca la Nuri</a>, <a href="https://www.calanuri.com/category/uncategorized-ca/" rel="tag">Uncategorized @ca</a> | 0 Comments</p><div class="post-content"><div class="post-content-inner"><p>En la segona acció de la campanya “L’Arròs Solidari” vam apropar les nostres bosses d’arròs a la Fundació Arrels, concretament a la llar Pere Barnés, situada al Poble-Sec. Allà vam poder veure de primera mà la magnífica tasca que fan voluntaris i treballadors del...</p>
+</div><a href="https://www.calanuri.com/2021/06/23/hem-visitat-fundacio-arrels-arrossolidaricalanuri/" class="more-link">read more</a></div>			
+</article> <!-- .et_pb_post -->
+<article id="post-49584" class="et_pb_post clearfix et_pb_blog_item_0_1 post-49584 post type-post status-publish format-standard has-post-thumbnail hentry category-ca-la-nuri">
+<div class="et_pb_image_container"><a href="https://www.calanuri.com/2021/06/03/sal-mar-inaugurem-nou-restaurant-per-oferir-te-les-millors-sobretaules-davant-del-mar/" class="entry-featured-image-url"><img loading="lazy" src="https://www.calanuri.com/wp-content/uploads/2021/06/foto-portada-salmar-3-400x250.jpg" alt="SAL MAR: Inaugurem nou restaurant per oferir-te les millors sobretaules davant del mar" class="" srcset="https://www.calanuri.com/wp-content/uploads/2021/06/foto-portada-salmar-3.jpg 479w, https://www.calanuri.com/wp-content/uploads/2021/06/foto-portada-salmar-3-400x250.jpg 480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div> <!-- .et_pb_image_container -->
+<h2 class="entry-title"><a href="https://www.calanuri.com/2021/06/03/sal-mar-inaugurem-nou-restaurant-per-oferir-te-les-millors-sobretaules-davant-del-mar/">SAL MAR: Inaugurem nou restaurant per oferir-te les millors sobretaules davant del mar</a></h2>
+<p class="post-meta">by <span class="author vcard"><a href="https://www.calanuri.com/author/eva-ca-la-nuri/" title="Posts by Eva Ca la Nuri" rel="author">Eva Ca la Nuri</a></span> | <span class="published">juny 3, 2021</span> | <a href="https://www.calanuri.com/category/ca-la-nuri/" rel="tag">Ca la Nuri</a> | 0 Comments</p><div class="post-content"><div class="post-content-inner"><p>A primera línia de la platja de la Barceloneta, l’antic Sal Cafè s’ha reinventat de la ma de Ca la Nuri per oferir-te un nou espai de restauració al front marítim. SAL MAR ha arribat coincidint amb el bon temps per convertir-se en un lloc on desconnectar i passar...</p>
+</div><a href="https://www.calanuri.com/2021/06/03/sal-mar-inaugurem-nou-restaurant-per-oferir-te-les-millors-sobretaules-davant-del-mar/" class="more-link">read more</a></div>			
+</article> <!-- .et_pb_post -->
+<article id="post-49516" class="et_pb_post clearfix et_pb_blog_item_0_2 post-49516 post type-post status-publish format-standard has-post-thumbnail hentry category-ca-la-nuri category-platja-ca-la-nuri category-xiroi-ca-la-nuri">
+<div class="et_pb_image_container"><a href="https://www.calanuri.com/2021/05/06/hospital-del-mar-arros-solidari/" class="entry-featured-image-url"><img loading="lazy" src="https://www.calanuri.com/wp-content/uploads/2021/05/DSC9389-400x250.jpg" alt="Hem visitat l&#8217;Hospital del Mar! #ArrosSolidariCalaNuri" class="" srcset="https://www.calanuri.com/wp-content/uploads/2021/05/DSC9389-scaled.jpg 479w, https://www.calanuri.com/wp-content/uploads/2021/05/DSC9389-400x250.jpg 480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div> <!-- .et_pb_image_container -->
+<h2 class="entry-title"><a href="https://www.calanuri.com/2021/05/06/hospital-del-mar-arros-solidari/">Hem visitat l&#8217;Hospital del Mar! #ArrosSolidariCalaNuri</a></h2>
+<p class="post-meta">by <span class="author vcard"><a href="https://www.calanuri.com/author/eva-ca-la-nuri/" title="Posts by Eva Ca la Nuri" rel="author">Eva Ca la Nuri</a></span> | <span class="published">maig 6, 2021</span> | <a href="https://www.calanuri.com/category/ca-la-nuri/" rel="tag">Ca la Nuri</a>, <a href="https://www.calanuri.com/category/platja-ca-la-nuri/" rel="tag">Platja Ca la Nuri</a>, <a href="https://www.calanuri.com/category/xiroi-ca-la-nuri/" rel="tag">Xiroi Ca la Nuri</a> | 0 Comments</p><div class="post-content"><div class="post-content-inner"><p>&nbsp; Treballadors de la Unitat de Crítics, del Servei d’Urgències i de l’Equip de Metges de Guàrdia de l'Hospital del Mar han rebut l’homenatge dels treballadors i clients de Ca la Nuri. Abans de començar el torn de nit, els professionals sanitaris van ser sorpresos...</p>
+</div><a href="https://www.calanuri.com/2021/05/06/hospital-del-mar-arros-solidari/" class="more-link">read more</a></div>			
+</article> <!-- .et_pb_post -->
+</div><!-- .et_pb_salvattore_content --><div><div class="pagination clearfix">
+<div class="alignleft"><a href="https://www.calanuri.com/page/2/?et_blog" >&laquo; Older Entries</a></div>
+<div class="alignright"></div>
+</div></div></div> <!-- .et_pb_posts -->
+</div>
+</div>
+</div> <!-- .et_pb_column -->
+</div> <!-- .et_pb_row -->
+</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
+</div><!-- .et-l -->
+</div><!-- #et-boc -->
+</div> <!-- .entry-content -->
+</article> <!-- .et_pb_post -->
+</div> <!-- #main-content -->
+
+<span class="et_pb_scroll_top et-pb-icon"></span>
+<div id="reserva">
+<div class="container">
+<a href="https://module.lafourchette.com/es_ES/module/202969-6bbb6" class="button fancybox-iframe" style="background-color:#262626;border-color:#262626;">Reserva ja!</a>
+</div>
+</div>
+<div id="logo_mini_nuri"><a href="https://www.calanuri.com/es/darrera-foto/platja" target="_BLANK"><img src="https://www.calanuri.com/wp-content/uploads/2019/07/calanuri_logo-blanc.png" alt="PLATJA – CA LA NURI" /></a></div>
+<footer id="main-footer">
+<div class="container">
+<div id="footer-widgets" class="clearfix">
+<div class="footer-widget"><div id="text-4" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><p>&nbsp;</p>
+<p class="widgettitle"><a href="tel:+34932213775">+34 932 213 775</a><br />
+<a href="mailto:platja@calanuri.com">platja@calanuri.com</a></p>
+<p><a href="https://platja.calanuri.com/" target="_blank" rel="noopener"><img loading="lazy" class="alignnone size-full wp-image-972" src="https://www.calanuri.com/wp-content/uploads/2019/05/platja-ca-la-nuri-footer.png" alt="" width="100" height="100" /></a></p>
+<p class="widgettitle"><a href="https://www.google.es/maps/place/Platja+Ca+la+Nuri+Restaurant/@41.3829791,2.192738,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a30ece8671ff:0xbd0a6c4ca676ff6d!8m2!3d41.3829751!4d2.1949267" target="_blank" rel="noopener">Pg. Marítim de la Barceloneta</a><br />
+08003 Barcelona</p>
+</div>
+</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-2" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><p>&nbsp;</p>
+<p class="widgettitle"><a href="http://+34932213558">+34 932 213 558</a><br />
+<a href="mailto:xiroi@calanuri.com">xiroi@calanuri.com</a></p>
+<p><a href="https://www.xiroi.calanuri.com/" target="_blank" rel="noopener"><img loading="lazy" class="alignnone size-full wp-image-966" src="https://www.calanuri.com/wp-content/uploads/2019/05/xiroi-ca-la-nuri-footer.png" alt="" width="100" height="100" /></a></p>
+<p class="widgettitle"><a href="https://www.google.es/maps/place/Xiroi+Ca+la+Nuri/@41.3916199,2.2012514,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a312f0f0b817:0xe3ae7ce03d49f382!8m2!3d41.3916199!4d2.2034401" target="_blank" rel="noopener">Pg. Marítim de la Nova Icària, 38</a><br />
+08005 Barcelona</p>
+</div>
+</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-5" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><p>&nbsp;</p>
+<p class="widgettitle"><a href="tel:+34932240707">+34 932 24 07 07</a><br />
+<a href="mailto:info@restaurantsalmar.com">info@restaurantsalmar.com</a></p>
+<p><a href="https://restaurantsalmar.com/" target="_blank" rel="noopener"><img loading="lazy" class="alignnone wp-image-49533" src="https://www.calanuri.com/wp-content/uploads/2021/06/salmar-2-300x227.png" alt="" width="123" height="93" srcset="https://www.calanuri.com/wp-content/uploads/2021/06/salmar-2-300x227.png 300w, https://www.calanuri.com/wp-content/uploads/2021/06/salmar-2.png 350w" sizes="(max-width: 123px) 100vw, 123px" /></a></p>
+<p class="widgettitle"><a href="https://goo.gl/maps/v3zv5WgLrM6coqtE7" target="_blank" rel="noopener">Paseo Marítimo de la Barceloneta, s/n, 08003 Barcelona</a></p>
+</div>
+</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-7" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><p>&nbsp;</p>
+<p class="widgettitle"><a href="tel:+34932211342">+34 932 211 342</a><br />
+<a href="mailto:arrozal@calanuri.com">arrozal@calanuri.com</a></p>
+<p><a href="https://arrozal.calanuri.com/" target="_BLANK" rel="noopener"><img src="https://www.calanuri.com/wp-content/uploads/2020/02/arrozal1.png" alt="ARROZAL– CA LA NURI" /></a></p>
+<p class="widgettitle"><a href="https://www.google.com/maps/dir//Arrozal+Ca+la+Nuri,+Avinguda+Ports+d'Europa,+Barcelona/@41.322648,2.1005477,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x12a49f40d9087199:0x5ccf1c2d67dbbb0c!2m2!1d2.135567!2d41.3226533" target="_blank" rel="noopener">Service Center del ZAL Port de Barcelona</a><br />
+Av. Ports d’Europa, 100 – 08040 Barcelona</p>
+<p>&nbsp;</p>
+</div>
+</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-3" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><p>&nbsp;</p>
+<p class="widgettitle"><a href="http://+34932155523">+34 932 155 523</a><br />
+<a href="mailto:terra@calanuri.com">terra@calanuri.com</a></p>
+<p><a href="https://terra.calanuri.com/" target="_blank" rel="noopener"><img loading="lazy" class="alignnone size-full wp-image-969" src="https://www.calanuri.com/wp-content/uploads/2019/05/terra-ca-la-nuri-footer.png" alt="" width="100" height="100" /></a></p>
+<p class="widgettitle"><a href="https://goo.gl/maps/D4hfaKe28xZV5XN99" target="_blank" rel="noopener">C. Consell de Cent, 377</a><br />
+08009 Barcelona</p>
+</div>
+</div> <!-- end .fwidget --></div> <!-- end .footer-widget -->    </div> <!-- #footer-widgets -->
+</div>    <!-- .container -->
+<div id="et-footer-nav">
+<div class="container">
+<ul id="menu-footer" class="bottom-nav"><li id="menu-item-1056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1056"><a href="https://www.calanuri.com/avis-legal/">Avís legal</a></li>
+<li id="menu-item-1058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1058"><a href="https://www.calanuri.com/politica-de-privacitat/">Política de privacitat</a></li>
+<li id="menu-item-1057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1057"><a href="https://www.calanuri.com/politica-de-cookies/">Política de cookies</a></li>
+<li id="menu-item-1059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1059"><a href="https://www.calanuri.com/politica-de-xarxes-socials/">Política de xarxes socials</a></li>
+</ul>					</div>
+</div> <!-- #et-footer-nav -->
+<div id="footer-bottom">
+<div class="container clearfix">
+<ul class="et-social-icons">
+<li class="et-social-icon et-social-facebook">
+<a href="https://www.facebook.com/calanuri1963" class="icon">
+<span>Facebook</span>
+</a>
+</li>
+<li class="et-social-icon et-social-instagram">
+<a href="https://www.instagram.com/calanuri/" class="icon">
+<span>Instagram</span>
+</a>
+</li>
+</ul><div id="footer-info">© Copyright Calanuri Restaurants - 2019 | Disseny <a href="http://www.empiezapori.com">empiezapori</a>  <br>
+</div>					</div>	<!-- .container -->
+</div>
+</footer> <!-- #main-footer -->
+</div> <!-- #et-main-area -->
+</div> <!-- #page-container -->
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.calanuri.com/wp-admin/admin-ajax.php";
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109288520-4"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-109288520-4');
+</script><!-- <link rel='stylesheet' id='mediaelement-css'  href='https://www.calanuri.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.calanuri.com/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='simple-share-buttons-adder-ssba-css'  href='https://www.calanuri.com/wp-content/plugins/simple-share-buttons-adder/css/ssba.css' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.calanuri.com/wp-content/cache/wpfc-minified/dh7jxslc/48gp0.css" media="all"/>
+<style id='simple-share-buttons-adder-ssba-inline-css' type='text/css'>
+.ssba {
+}
+.ssba img
+{
+width: 55px !important;
+padding: 6px;
+border:  0;
+box-shadow: none !important;
+display: inline !important;
+vertical-align: middle;
+box-sizing: unset;
+}
+.ssba-classic-2 .ssbp-text {
+display: none!important;
+}
+.ssba .fb-save
+{
+padding: 6px;
+line-height: 50px; }
+.ssba, .ssba a
+{
+text-decoration:none;
+background: none;
+font-size: 20px;
+font-weight: bold;
+}
+#ssba-bar-2 .ssbp-bar-list {
+max-width: 48px!important;;
+}
+#ssba-bar-2 .ssbp-bar-list li a {height: 48px!important; width: 48px!important; 
+}
+#ssba-bar-2 .ssbp-bar-list li a:hover {
+}
+#ssba-bar-2 .ssbp-bar-list li a::before {line-height: 48px!important;; font-size: 18px;}
+#ssba-bar-2 .ssbp-bar-list li a:hover::before {}
+#ssba-bar-2 .ssbp-bar-list li {
+margin: 0px 0!important;
+}@media only screen and ( max-width: 750px ) {
+#ssba-bar-2 {
+display: block;
+}
+}
+@font-face {
+font-family: 'ssbp';
+src:url('https://www.calanuri.com/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.eot?xj3ol1');
+src:url('https://www.calanuri.com/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.eot?#iefixxj3ol1') format('embedded-opentype'),
+url('https://www.calanuri.com/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.woff?xj3ol1') format('woff'),
+url('https://www.calanuri.com/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.ttf?xj3ol1') format('truetype'),
+url('https://www.calanuri.com/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.svg?xj3ol1#ssbp') format('svg');
+font-weight: normal;
+font-style: normal;
+/* Better Font Rendering =========== */
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+</style>
+<link rel='stylesheet' id='et-builder-googlefonts-css'  href='https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic&#038;subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese&#038;display=swap' type='text/css' media='all' />
+<script type='text/javascript' defer src='https://www.calanuri.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script type='text/javascript' defer src='https://www.calanuri.com/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.calanuri.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer src='https://www.calanuri.com/wp-content/plugins/contact-form-7/includes/js/index.js' id='contact-form-7-js'></script>
+<script type='text/javascript' defer src='https://www.calanuri.com/wp-content/plugins/simple-share-buttons-adder/js/ssba.js' id='simple-share-buttons-adder-ssba-js'></script>
+<script type='text/javascript' id='simple-share-buttons-adder-ssba-js-after'>
+Main.boot( [] );
+</script>
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.calanuri.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.calanuri.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.calanuri.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"6e91b7bddf","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"76dee4aa14","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"57","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' defer src='https://www.calanuri.com/wp-content/themes/Divi/js/custom.unified.js' id='divi-custom-script-js'></script>
+<script type='text/javascript' defer src='https://www.calanuri.com/wp-content/themes/Divi/core/admin/js/common.js' id='et-core-common-js'></script>
+<script type='text/javascript' defer src='https://www.calanuri.com/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"ca","strings":{"mejs.download-file":"Baixa el fitxer","mejs.install-flash":"Esteu utilitzant un navegador que no t\u00e9 Flash actiu o instal\u00b7lat. Activeu el component del reproductor Flash o descarregueu l'\u00faltima versi\u00f3 des de https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Pantalla completa","mejs.play":"Reprodueix","mejs.pause":"Pausa","mejs.time-slider":"Control de temps","mejs.time-help-text":"Feu servir les tecles de fletxa esquerra\/dreta per avan\u00e7ar un segon, i les tecles de fletxa cap amunt\/cap avall per avan\u00e7ar deu segons.","mejs.live-broadcast":"Transmissi\u00f3 en directe","mejs.volume-help-text":"Fe servir les tecles de fletxa cap amunt\/cap avall per incrementar o disminuir el volum.","mejs.unmute":"Activa el so","mejs.mute":"Desactiva el so","mejs.volume-slider":"Control de volum","mejs.video-player":"Reproductor de v\u00eddeo","mejs.audio-player":"Reproductor d'\u00e0udio","mejs.captions-subtitles":"T\u00edtols\/subt\u00edtols","mejs.captions-chapters":"Cap\u00edtols","mejs.none":"Cap","mejs.afrikaans":"Afrikaans","mejs.albanian":"Alban\u00e8s","mejs.arabic":"\u00c0rab","mejs.belarusian":"Bielor\u00fas","mejs.bulgarian":"B\u00falgar","mejs.catalan":"Catal\u00e0","mejs.chinese":"Xin\u00e8s","mejs.chinese-simplified":"Xin\u00e8s (simplificat)","mejs.chinese-traditional":"Xin\u00e8s (tradicional)","mejs.croatian":"Croat","mejs.czech":"Txec","mejs.danish":"Dan\u00e8s","mejs.dutch":"Neerland\u00e8s","mejs.english":"Angl\u00e8s","mejs.estonian":"Estoni\u00e0","mejs.filipino":"Filip\u00ed","mejs.finnish":"Fin\u00e8s","mejs.french":"Franc\u00e8s","mejs.galician":"Gallec","mejs.german":"Alemany","mejs.greek":"Grec","mejs.haitian-creole":"Crioll haiti\u00e0","mejs.hebrew":"Hebreu","mejs.hindi":"Hindi","mejs.hungarian":"Hongar\u00e8s","mejs.icelandic":"Island\u00e8s","mejs.indonesian":"Indonesi","mejs.irish":"Irland\u00e8s","mejs.italian":"Itali\u00e0","mejs.japanese":"Japon\u00e8s","mejs.korean":"Core\u00e0","mejs.latvian":"Let\u00f3","mejs.lithuanian":"Litu\u00e0","mejs.macedonian":"Macedoni","mejs.malay":"Malai","mejs.maltese":"Malt\u00e8s","mejs.norwegian":"Noruec","mejs.persian":"Persa","mejs.polish":"Polon\u00e8s","mejs.portuguese":"Portugu\u00e8s","mejs.romanian":"Roman\u00e8s","mejs.russian":"Rus","mejs.serbian":"Serbi","mejs.slovak":"Eslovac","mejs.slovenian":"Eslov\u00e8","mejs.spanish":"Espanyol","mejs.swahili":"Suahili","mejs.swedish":"Suec","mejs.tagalog":"Tagal","mejs.thai":"Tailand\u00e8s","mejs.turkish":"Turc","mejs.ukrainian":"Ucra\u00efn\u00e8s","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gal\u00b7l\u00e8s","mejs.yiddish":"Jiddisch"}};
+</script>
+<script type='text/javascript' defer src='https://www.calanuri.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js' id='mediaelement-core-js'></script>
+<script type='text/javascript' defer src='https://www.calanuri.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer src='https://www.calanuri.com/wp-includes/js/mediaelement/wp-mediaelement.min.js' id='wp-mediaelement-js'></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LeBYiwaAAAAAHpOLSvo42vZj_TVeH8R7uflbB4W"></script>
+<script type="text/javascript">
+( function( grecaptcha ) {
+var anr_onloadCallback = function() {
+grecaptcha.execute(
+'6LeBYiwaAAAAAHpOLSvo42vZj_TVeH8R7uflbB4W',
+{ action: 'advanced_nocaptcha_recaptcha' }
+).then( function( token ) {
+for ( var i = 0; i < document.forms.length; i++ ) {
+var form = document.forms[i];
+var captcha = form.querySelector( 'input[name="g-recaptcha-response"]' );
+if ( null === captcha )
+continue;
+captcha.value = token;
+}
+});
+};
+grecaptcha.ready( anr_onloadCallback );
+document.addEventListener( 'wpcf7submit', anr_onloadCallback, false );
+if ( typeof jQuery !== 'undefined' ) {
+//Woocommerce
+jQuery( document.body ).on( 'checkout_error', anr_onloadCallback );
+}
+//token is valid for 2 minutes, So get new token every after 1 minutes 50 seconds
+setInterval(anr_onloadCallback, 110000);
+} )( grecaptcha );
+</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 2.5052289962769 seconds, on 22-09-21 11:04:30 -->
